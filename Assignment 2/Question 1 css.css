@@ -1,0 +1,15 @@
+body {
+    margin: 10px;
+    background-color: #FFFFE0;
+}
+h1{
+    color: red;
+    font-style: bold;   
+}
+img{
+    float: right;
+    margin: 15px;
+}
+p{
+    text-align: justify;
+}
